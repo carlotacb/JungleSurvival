@@ -1,0 +1,1919 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - DaydreamElements.ArmModels.Ball
+    - DaydreamElements.ArmModels.BallGrabber
+    - DaydreamElements.ArmModels.BallReturner
+    - DaydreamElements.ArmModels.BallSpawner
+    - DaydreamElements.ArmModels.CustomizeArmModelUI
+    - DaydreamElements.ArmModels.EnablePointerController
+    - DaydreamElements.ArmModels.FadeControllerVisual
+    - DaydreamElements.ArmModels.FollowObjectRotation
+    - DaydreamElements.ArmModels.HideByScale
+    - DaydreamElements.ArmModels.Mirror
+    - DaydreamElements.ArmModels.ModeController
+    - DaydreamElements.ArmModels.ModeSelector
+    - DaydreamElements.ArmModels.Projectile
+    - DaydreamElements.ArmModels.ProjectileSplat
+    - DaydreamElements.ArmModels.ScalarSliderUI
+    - DaydreamElements.ArmModels.SetActiveAnimated
+    - DaydreamElements.ArmModels.SwingArmModel
+    - DaydreamElements.ArmModels.ThrowController
+    - DaydreamElements.ArmModels.Trail
+    - DaydreamElements.ArmModels.TransitionArmModel
+    - DaydreamElements.ArmModels.VectorSlidersUI
+    - DaydreamElements.ArmModels.VisualizeArmModel
+    - DaydreamElements.ArmModels.Zapper
+    - DaydreamElements.Common.AudioFader
+    - DaydreamElements.Common.ReorientOnLoad
+    - GvrArmModel
+    - GvrAudioListener
+    - GvrAudioSource
+    - GvrControllerInput
+    - GvrControllerReticleVisual
+    - GvrControllerTooltipsSimple
+    - GvrControllerVisual
+    - GvrEditorEmulator
+    - GvrLaserPointer
+    - GvrLaserVisual
+    - GvrPointerGraphicRaycaster
+    - GvrPointerInputModule
+    - GvrPointerPhysicsRaycaster
+    - GvrTrackedController
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/DaydreamElements/Elements/ArmModels/Demo/ArmModelsDemo.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 92
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9908}
+    - Class: 114
+      Script: {instanceID: 10020}
+    - Class: 114
+      Script: {instanceID: 10124}
+    - Class: 114
+      Script: {instanceID: 10176}
+    - Class: 114
+      Script: {instanceID: 10202}
+    - Class: 114
+      Script: {instanceID: 10252}
+    - Class: 114
+      Script: {instanceID: 10270}
+    - Class: 114
+      Script: {instanceID: 10340}
+    - Class: 114
+      Script: {instanceID: 10344}
+    - Class: 114
+      Script: {instanceID: 10402}
+    - Class: 114
+      Script: {instanceID: 10432}
+    - Class: 114
+      Script: {instanceID: 10458}
+    - Class: 114
+      Script: {instanceID: 10710}
+    - Class: 114
+      Script: {instanceID: 10946}
+    - Class: 114
+      Script: {instanceID: 10992}
+    - Class: 114
+      Script: {instanceID: 11114}
+    - Class: 114
+      Script: {instanceID: 11120}
+    - Class: 114
+      Script: {instanceID: 11124}
+    - Class: 114
+      Script: {instanceID: 11156}
+    - Class: 114
+      Script: {instanceID: 11160}
+    - Class: 114
+      Script: {instanceID: 11192}
+    - Class: 114
+      Script: {instanceID: 11226}
+    - Class: 114
+      Script: {instanceID: 11312}
+    - Class: 114
+      Script: {instanceID: 11334}
+    - Class: 114
+      Script: {instanceID: 11426}
+    - Class: 114
+      Script: {instanceID: 11534}
+    - Class: 114
+      Script: {instanceID: 11590}
+    - Class: 114
+      Script: {instanceID: 11646}
+    - Class: 114
+      Script: {instanceID: 11682}
+    - Class: 114
+      Script: {instanceID: 11684}
+    - Class: 114
+      Script: {instanceID: 11874}
+    - Class: 114
+      Script: {instanceID: 11888}
+    - Class: 114
+      Script: {instanceID: 11946}
+    - Class: 114
+      Script: {instanceID: 11970}
+    - Class: 114
+      Script: {instanceID: 12010}
+    - Class: 114
+      Script: {instanceID: 12024}
+    - Class: 114
+      Script: {instanceID: 12056}
+    - Class: 114
+      Script: {instanceID: 12100}
+    - Class: 114
+      Script: {instanceID: 12136}
+    - Class: 114
+      Script: {instanceID: 12148}
+    - Class: 114
+      Script: {instanceID: 12220}
+    - Class: 114
+      Script: {instanceID: 12314}
+    - Class: 114
+      Script: {instanceID: 12340}
+    - Class: 114
+      Script: {instanceID: 12350}
+    - Class: 114
+      Script: {instanceID: 12354}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 134
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 225
+      Script: {instanceID: 0}
+    - Class: 241
+      Script: {instanceID: 0}
+    - Class: 243
+      Script: {instanceID: 0}
+    - Class: 245
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadClickDownTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: fcc5249d7073c8b9298d2c58b0014711
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Tunneling
+    className: FadeVignetteController
+  - hash:
+      serializedVersion: 2
+      Hash: 3c08375166df118bd1801438fc36b92f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrDropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 1be5e904dc0be501d4980b43add4e0d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.GVRDemo
+    className: HeadsetDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: ea84a1957a16e37e22008e8e27b86dd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadSideClickDownTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ClickMenuLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ChaseCamLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: ed78df9ca3c0f926402c898155999b3d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: BallSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 91135359f586bc64126027a1febe1f4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: PagedScrollBar
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ConstellationMenuLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 331bda6ac7ba37d93156b5c2c651b0f8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: Balloon
+  - hash:
+      serializedVersion: 2
+      Hash: f914b6ff3a705b67732ee0e3a5181001
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: RigidPaperAirplane
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3d760493309a02a3d87359132e92a960
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: ScaleScrollEffect
+  - hash:
+      serializedVersion: 2
+      Hash: d2ae6677e56605e00d978e085d74f19a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectButton
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d27a4fc724dd4e3d1fb9b5100d29448f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: DrawerConstraint
+  - hash:
+      serializedVersion: 2
+      Hash: 84b31b71fcfc0d02bf4204522ea292b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrVideoPlayerTexture
+  - hash:
+      serializedVersion: 2
+      Hash: e7ad16c216b2b19109082c681d712fa6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: VertexLightingOverride
+  - hash:
+      serializedVersion: 2
+      Hash: 72712369a7c681ad84fc255a5ec0b333
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: cbb2d0648a872f533b2c53ebf288ba94
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: Painter
+  - hash:
+      serializedVersion: 2
+      Hash: e7ab440c3c340a263efb3e6d0367fd89
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: TabGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: d668a6d80203eff006895a4d73ef1ec0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: BalloonSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 255100af3776f76b080b8335f2a07c08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StarRendering
+  - hash:
+      serializedVersion: 2
+      Hash: 8e0313c6f5e2ce35991fec2d64f8eaab
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: TunnelingLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 7bc2d8b22e3bb790e3c2c3c33d240bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: ArcTeleportDetector
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: fac09cdced67784d53a73e2ae25e0a0c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: BallReturner
+  - hash:
+      serializedVersion: 2
+      Hash: 3bb1b4bae6823a4524e793cdb8702970
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.PermissionsDemo
+    className: PermissionsFlowManager
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 49ab4b44aa32341379d25b3ba4d0997a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: HighlightOnHover
+  - hash:
+      serializedVersion: 2
+      Hash: b9d24ed0a03d6b2482a98461664981c3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: ClickMenuRoot
+  - hash:
+      serializedVersion: 2
+      Hash: 4c77f1d114a6c97641eaf906dafd108b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: MaskedTile
+  - hash:
+      serializedVersion: 2
+      Hash: 60eb065cb8ea340f8c72045b999a032f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: AppButtonInput
+  - hash:
+      serializedVersion: 2
+      Hash: 771d1f0cda207248eb9e66a4748c65be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: FollowObjectRotation
+  - hash:
+      serializedVersion: 2
+      Hash: 563e15b1c6528e627f23f733f3d799bf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: InteractiveSign
+  - hash:
+      serializedVersion: 2
+      Hash: c13b97ea73884cbadb30585dc02e675c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: TiledPage
+  - hash:
+      serializedVersion: 2
+      Hash: 249e2fadc2e8bc8cbb77fbdf1e0f7bee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: DisableMessageSignWhileTeleporting
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: a0aa3d1951daafecf3f4e98f4d6a91be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: ModeController
+  - hash:
+      serializedVersion: 2
+      Hash: 5a6d2708e2adab17e1791692c797c8fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: Ring
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 3e2ea8c644ad0dfcb6573611166f4305
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: TranslateScrollEffect
+  - hash:
+      serializedVersion: 2
+      Hash: 5d46189bfca968b9b26fd60c37765c3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 76e0301ac033c2c2519dbfab1cca7e6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: ThrowController
+  - hash:
+      serializedVersion: 2
+      Hash: 444398bc4fb783b0b448ac3c979214e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrAudioRoom
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadTouchUpTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: d516c45a3cff2568270dc8fe62a5fd8c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: BreadcrumbBackground
+  - hash:
+      serializedVersion: 2
+      Hash: ef63e4840dfcdd04b0bc8690722b516a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ScreenFade
+  - hash:
+      serializedVersion: 2
+      Hash: ff37ff50e269c7a2e9945f198b26f51d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: ModeSelector
+  - hash:
+      serializedVersion: 2
+      Hash: 1bb6b7c659ac722a4b1d683587b8475b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.Demos
+    className: DemoInputManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: DaydreamRendererLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: de5e5c29c689f39571de802fdd1a267c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: CombineMeshFilters
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 0b3072a2355e859cf5386caec9d4a917
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ConstellationMenu
+    className: ConstellationMenuRoot
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrEditorEmulator
+  - hash:
+      serializedVersion: 2
+      Hash: b071ae9197dc5cc68c739a713365e19b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectPageProvider
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7ef85fb387e238daaebec6e64f35ffde
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Mirror
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SliderCallbacks
+  - hash:
+      serializedVersion: 2
+      Hash: 6fa741eccd86c0bea38117a65515b359
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrScrollSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 03198f22d29dffd724854d34309d6028
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: MoveablePhysicsObjectAudio
+  - hash:
+      serializedVersion: 2
+      Hash: a685474b81b201a52f933e0c72b43c68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: PaperPlaneSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 4e9333594897a1fb8b136ad2eae996c7
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.Demos
+    className: DemoSceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: ObjectPoolManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: OnPreRenderCallback
+  - hash:
+      serializedVersion: 2
+      Hash: d9f91838fed0a3cbc9c8cdabde294b3b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: TintOnSelected
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: cb8103ee735828e0666e706006964c1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: LinearTeleportTransition
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: PopSound
+  - hash:
+      serializedVersion: 2
+      Hash: ed916f285d5522ec5ceb6eccef8d0072
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: SwitchVideos
+  - hash:
+      serializedVersion: 2
+      Hash: ed7b76285870077f8a84ff4a505772bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: DoorAudio
+  - hash:
+      serializedVersion: 2
+      Hash: 11182ae33aeebaa701c6f03cb7f19976
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrKeyboard
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: 94a70dea2f064d93a5ee29f65f86ea4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: JumpToPage
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: ddd530020059d8ea01207ef734215f61
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrAudioSoundfield
+  - hash:
+      serializedVersion: 2
+      Hash: 287963f788124d0954a11e14c88fe403
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: ToggleAction
+  - hash:
+      serializedVersion: 2
+      Hash: 402e00566f4162e5d83fbd6b150881fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: CustomCenterOfMass
+  - hash:
+      serializedVersion: 2
+      Hash: 98751ac0c9dbedb4a68e2edb8e536c17
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: MessageSign
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 9c5049a5be03714242c777afa18e44bf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: PositionSwapper
+  - hash:
+      serializedVersion: 2
+      Hash: 06a7b7d77e413c9dfe0d63cd332ab9d5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: BVHTest
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ea84a1957a16e37e22008e8e27b86dd1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadSideTouchDownTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 1ee11e04268fe12975c1e5f81c16fb8f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: FloatTile
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: f2f9469d59b687bbcbe4f343f8fca8de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: ClickMenuTree
+  - hash:
+      serializedVersion: 2
+      Hash: 96689d4aa2df42c5bec976ea6c69df8a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ConstellationMenu
+    className: ConstellationMenuIcon
+  - hash:
+      serializedVersion: 2
+      Hash: 52011d1b7b8b1ff403807466b60c83a2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: Sign
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadTouchingTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: baf9bc997921caef326ef7fd949d32e1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Tunneling
+    className: FirstPersonTunnelingLocomotion
+  - hash:
+      serializedVersion: 2
+      Hash: 08c997bef92d81ef1e6066060eb4f60c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: BakeFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppButtonUpTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 820223764af344c07ca3f5c75a2aaa80
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: PagedScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: cdaab0e096c1e0ea9c92e068c4aaaf77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: CharacterPositionPointer
+  - hash:
+      serializedVersion: 2
+      Hash: fd08582f5970da400bfa366d1fadaa4d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectController
+  - hash:
+      serializedVersion: 2
+      Hash: b5559002dc2807e371cc87e565f059c8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ConstellationMenu
+    className: ConstellationMenuItem
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: FadeControllerVisual
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: df14204c8eef5efd8b1a9daa6e0a5862
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrAllEventsTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: b55f6b457cc97eccafce2e0dc2650b2d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectButtonData
+  - hash:
+      serializedVersion: 2
+      Hash: eea0e3bc8bcbafb86feee01f6e78b6ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: TriangleTest
+  - hash:
+      serializedVersion: 2
+      Hash: be72d94eafe1b69615c4f73957582e1c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: ChildrenPageProvider
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 47b386b944004c4742bea9f62e7ab644
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrAudioListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8b783cb5d082426d639719e837ca2859
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: ClickMenuIcon
+  - hash:
+      serializedVersion: 2
+      Hash: 3659ff64c28d5bfda2298a8f2f4e47f6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: EonSpinner
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrPointerManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71881625a609e3e2f9cd839758db4e9d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: PrefabPageProvider
+  - hash:
+      serializedVersion: 2
+      Hash: e6e146eac719b740b5e8f264eb229bcd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ConstellationMenu
+    className: ModelManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3e0122c216d7623bf42d80550888b740
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: MeshContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 6fdfdd0b2491dd32dd1e2852ac201efd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: DaydreamLight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: a1e4fc8433b4bcdda3a3400e41a97c32
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: CollectibleCoin
+  - hash:
+      serializedVersion: 2
+      Hash: 2a16452a9ada6d06b15285b4f2fdbcce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: BakeSets
+  - hash:
+      serializedVersion: 2
+      Hash: 54575728f082412e10254f2ecfdf93d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShadowCaster
+  - hash:
+      serializedVersion: 2
+      Hash: df12c1bfce73f4c7ca135fbaae5baa9b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: ScalarSliderUI
+  - hash:
+      serializedVersion: 2
+      Hash: be2ebf55125482cc0d91a2c9bc30266e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: ProjectileSplat
+  - hash:
+      serializedVersion: 2
+      Hash: b9ec0464efefd26118c519c80fcf57fa
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Ball
+  - hash:
+      serializedVersion: 2
+      Hash: 6e580e33d7ad5a8e4a7c5fa3f433e951
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: TeleportController
+  - hash:
+      serializedVersion: 2
+      Hash: 2e1ac081db0293df2c24d8c55d2ccb83
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: DaydreamMeshRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 634b7982977c2b09b8c1afa6308c6610
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: SwipeMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 46246a466a11017be309d31930e3d60f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrTrackedController
+  - hash:
+      serializedVersion: 2
+      Hash: e7926c1278620de1e09729db2f878a65
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: CustomizeArmModelUI
+  - hash:
+      serializedVersion: 2
+      Hash: 24403eb2426c9df611c1c3e9f8a9a1bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: Breadcrumb
+  - hash:
+      serializedVersion: 2
+      Hash: 356d92a72e40d892911e1af39de9f3db
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: Launcher
+  - hash:
+      serializedVersion: 2
+      Hash: 1f8286dbbba9b39b9120dec32b8944e4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrLaserPointer
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ArmModelsLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: feb9a5a121d15fa3654d4e50a5233045
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: ac26a86003502d37cd72a4f961163199
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectPage
+  - hash:
+      serializedVersion: 2
+      Hash: cabfb52c8ebafba11224362d761c6357
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: HingeConstraint
+  - hash:
+      serializedVersion: 2
+      Hash: 0aa0cdc6eae28c269231fc843daf0452
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: BreadcrumbTrail
+  - hash:
+      serializedVersion: 2
+      Hash: b4ddcb2bfdbe894ed5b50df54e369982
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: PainterStroke
+  - hash:
+      serializedVersion: 2
+      Hash: 13c982a7b9ffccfb677ee64a5e5b9ea9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: LinearTeleportDetector
+  - hash:
+      serializedVersion: 2
+      Hash: 2d3dbfe7491eceb8cb5cabfaf4109fdd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Zapper
+  - hash:
+      serializedVersion: 2
+      Hash: a6275f6bce23ecd64e4fe054ec2212e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ChangeLighting
+  - hash:
+      serializedVersion: 2
+      Hash: 2ea26dd8bc1773309f4ac37fcec31519
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: VertexDebugState
+  - hash:
+      serializedVersion: 2
+      Hash: 35f8fdad467870110812eb8420d41e22
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: VectorSlidersUI
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 2677e55c0e50300574fbda5b429cb920
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: TargetGlowScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 03a80bd821b041c0e4d42005c3a27dc7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Gvr.Internal
+    className: InstantPreview
+  - hash:
+      serializedVersion: 2
+      Hash: 2ef1e0ff47a24cd7161b5fec9595aea8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: LevelSelectHierarchyData
+  - hash:
+      serializedVersion: 2
+      Hash: 0274878ff9458d4e09d3e9f415afc625
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: AudioFader
+  - hash:
+      serializedVersion: 2
+      Hash: c25bdd8301bd259897fb02f64c9b31ef
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: TeleportPlaygroundEffector
+  - hash:
+      serializedVersion: 2
+      Hash: 847ecc61e6e91f99ffbab7e0e9da3131
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: ChaseCam
+  - hash:
+      serializedVersion: 2
+      Hash: 178ef7276047b0bbf5275fb3d8d1baf1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: DynamicWindColorResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: FlexLaserVisual
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: f1162ccd3fa275722507fbd7745b6bd5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: CheckBuildScenes
+  - hash:
+      serializedVersion: 2
+      Hash: bf3913f0d6c694bf20e1d681c79a4993
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.GVRDemo
+    className: Teleport
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 65c02f505e179a4ee88b4fbf732d1bd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: LaserOriginVisual
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 5a7b60d4a80efe38d2b6ada8a014a833
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: SimpleInteractiveObject
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrControllerTooltipsSimple
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: BallGrabber
+  - hash:
+      serializedVersion: 2
+      Hash: 1cd972ac199f879df0432ebed84096d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Teleport
+    className: ArcTeleportVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 84e62f6d3ce7240e5362cddcea006249
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: DaydreamVertexLighting
+  - hash:
+      serializedVersion: 2
+      Hash: 002020d0363e1d2fc6726436c90292ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: SyncOrbit
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: ObjectManipulationLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 46246a466a11017be309d31930e3d60f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrControllerVisualManager
+  - hash:
+      serializedVersion: 2
+      Hash: 1cbb684877139a8fcd5903f27462e898
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrPointerPhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrHeadset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShadowReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 2ea5bd6778aff4b10cf70e59a4c0376c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: ObjectManipulationPointer
+  - hash:
+      serializedVersion: 2
+      Hash: 01d1ca803d471bfedf9517eca09f14bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Projectile
+  - hash:
+      serializedVersion: 2
+      Hash: 46cdd21d4f035e7f2b4777b48801da67
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrRecenterOnlyController
+  - hash:
+      serializedVersion: 2
+      Hash: 6032af9a15e34b2768226e74d82d265d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: MenuSounds
+  - hash:
+      serializedVersion: 2
+      Hash: 0aefaa69b3866ee3ae66f07ddb7f44ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: VideoPlayerReference
+  - hash:
+      serializedVersion: 2
+      Hash: a936a2964fc88b64f34535799b70401f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ConstellationMenu
+    className: ConstellationMenuTree
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InstantPreviewHelper
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Gvr.Internal
+    className: EmulatorManager
+  - hash:
+      serializedVersion: 2
+      Hash: 6b46b99106eba05cf78ed1b376c64552
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Tunneling
+    className: TunnelingVignette
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Throwable
+  - hash:
+      serializedVersion: 2
+      Hash: 3b760e6526e13f7504f59e210145899a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: a4987296014351a6aeb428d87d04e320
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: SimpleCustomFog
+  - hash:
+      serializedVersion: 2
+      Hash: 77035de2f75c9d7a19377ef6002c9bd8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrReticlePointer
+  - hash:
+      serializedVersion: 2
+      Hash: f50cf382c8194936f952f160352bb24a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HideOnMainScene
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadClickUpTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: c29472ce98d570b8724b5ecc27ab70b3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: PooledPageProvider
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: TeleportLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.SwipeMenu
+    className: ExplodedQuad
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 89c433fef753b02de32958d7fe54cc06
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrLaserVisual
+  - hash:
+      serializedVersion: 2
+      Hash: 99aab18d598f2e3ceb02c85da69e2805
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShadowRendering
+  - hash:
+      serializedVersion: 2
+      Hash: c8a7a2ef3692d34c8a1465973843d934
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrControllerVisual
+  - hash:
+      serializedVersion: 2
+      Hash: 756089a98e9a13f4ec71a929b9c6adad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: DaydreamRenderer
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: QuitOnCloseButton
+  - hash:
+      serializedVersion: 2
+      Hash: 29755bc56097c0dcfac7e91ac6845ab9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: FadeScrollEffect
+  - hash:
+      serializedVersion: 2
+      Hash: b97cffe02b573ea276f6fd914d2c13f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ClickMenu
+    className: ClickMenuItem
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: ScrubberEvents
+  - hash:
+      serializedVersion: 2
+      Hash: 1dc692b5f5038a81df0f6e1870ef48e9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: Trail
+  - hash:
+      serializedVersion: 2
+      Hash: 2fdb322ce4f2b1c92e68ac7c8e9461b0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: DDRSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 1a31246343756c34b1faa8799ec022b9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SimpleShoot
+  - hash:
+      serializedVersion: 2
+      Hash: 1b013e6399200f85de1e39dbd73d4ab8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: VisualizeArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 59157998de42697c4e1bf0f1f51b9edd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: FlexReticle
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppButtonDownTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: a8647c0c34e4976cb6110453cd0930f9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: SetActiveAnimated
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: TileScrollEffect
+  - hash:
+      serializedVersion: 2
+      Hash: c76b6943b8771707492d7cba38aa757c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: HideByScale
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: VideoControlsManager
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 1a15a086b1c0337a64ec2bee2ef92299
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrPointerGraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadTouchDownTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: f262a7492798be50f87cb12af40dc92e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: MoveablePhysicsObject
+  - hash:
+      serializedVersion: 2
+      Hash: df64ad7cdad89053ed97218d03e92c1f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Gvr.Internal
+    className: EmulatorConfig
+  - hash:
+      serializedVersion: 2
+      Hash: 3bc8ce19af6abbc69400acde5ea5c907
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: EnablePointerController
+  - hash:
+      serializedVersion: 2
+      Hash: 0356cdaae5b7070b3af7fac5f6f8d8cb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrTooltip
+  - hash:
+      serializedVersion: 2
+      Hash: 05e47cabaed0ac86fd569b8c5efa55e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.KeyboardDemo
+    className: KeyboardDelegateExample
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: ReorientOnLoad
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadClickTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 9c0d0cb763db1abc3ede7265284d9c70
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: FoxPositionedCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: 611d83895293a48a9ac45b6332288b77
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrAudioSource
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchpadMiddleClickUpTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: df434544c9f7b33d1cc7e635b180d279
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AppButtonClickTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 72092c39978919a0496eacbc53f74227
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: UIFadeTransition
+  - hash:
+      serializedVersion: 2
+      Hash: ec724ebe8eb4dc48d4c51325241a898d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ShadowSource
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: f0077b931a26a7eeaf5e245c7ef51ec4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrPointerInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 7a6837fe2e1bc65ba24bcd2a74cc367f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrController
+  - hash:
+      serializedVersion: 2
+      Hash: 951ca3ece10453c66f3bff7007134476
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: MenuHandler
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: GameObjectPoolController
+  - hash:
+      serializedVersion: 2
+      Hash: 20eeaeae829475b5e354d1f626c51a2b
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: cf235635ef27e2f78099023d3de64d5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: daydreamrenderer
+    className: BakeData
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Gvr.Internal
+    className: EmulatorClientSocket
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 121e8b461842e0153c86c3e9fc485192
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ObjectManipulation
+    className: DrawerAudio
+  - hash:
+      serializedVersion: 2
+      Hash: 7a6837fe2e1bc65ba24bcd2a74cc367f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrControllerInput
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 3e2359b47f1dd7cc80d0201335459c5a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.GVRDemo
+    className: GVRDemoManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 01bdf339a887de280d38eeb519dfda0d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GvrControllerReticleVisual
+  - hash:
+      serializedVersion: 2
+      Hash: 002020d0363e1d2fc6726436c90292ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: SyncFacing
+  - hash:
+      serializedVersion: 2
+      Hash: ba779b7d1aeed0ab3c3c283649fe3177
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: GroundPositionedCharacter
+  - hash:
+      serializedVersion: 2
+      Hash: 4bb364fd6485fe8a96cb3a2f3c4b690c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.ArmModels
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: f262e241baac1c4184aa4ed5ad258734
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: Tab
+  - hash:
+      serializedVersion: 2
+      Hash: 719e5a8f63dda20dad1ba86875c22268
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: GoogleVR.VideoDemo
+    className: AutoPlayVideo
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 7f1ff2be4958480d1967797f86763726
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: CoinGenerator
+  - hash:
+      serializedVersion: 2
+      Hash: 7cc64e41ff3084091e38cddae5249c98
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Common
+    className: GlobalDynamicWindColorSimple
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Main
+    className: SwipeMenuLevelSelectResponder
+  - hash:
+      serializedVersion: 2
+      Hash: fd603770689195d8c21e05ad28422d62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: DaydreamElements.Chase
+    className: ScoreTracker
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AddColliders
+  platform: 13
+  scenePathNames:
+  - Assets/DaydreamElements/Elements/ArmModels/Demo/ArmModelsDemo.unity
+  playerPath: C:/Users/david.aleu.RAONA/Documents/hackathons/JungleSurvival/provaarms.apk

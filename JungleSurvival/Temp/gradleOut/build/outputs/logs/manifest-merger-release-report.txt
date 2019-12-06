@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+MERGED from [:gvr-keyboard:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\649c2a14bac4d61c110aea931dd50ead\AndroidManifest.xml:2:1-4:12
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:2:1-31:12
+MERGED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:2:1-30:12
+MERGED from [:gvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\6d97f155b964acffcdae39a6fc03fea8\AndroidManifest.xml:2:1-9:12
+MERGED from [:unitygvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\0e6ba7c5a67350737c9edfb5ab3f5bba\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+	package
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:70-106
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:1-46:12
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:11-69
+	android:installLocation
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:17:107-147
+supports-screens
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:3-163
+	android:largeScreens
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:47-74
+	android:smallScreens
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:104-131
+	android:normalScreens
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:75-103
+	android:xlargeScreens
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:132-160
+	android:anyDensity
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:18:21-46
+application
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-37:17
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:11:5-29:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:11:5-28:19
+MERGED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:11:5-28:19
+	android:supportsRtl
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:16-48
+	android:allowBackup
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:108-139
+	android:theme
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:140-178
+	android:isGame
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:49-70
+	android:usesCleartextTraffic
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:19:71-107
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:5-31:16
+	android:screenOrientation
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:126-164
+	android:label
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:15-47
+	android:enableVrMode
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:415-467
+	android:launchMode
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:165-196
+	android:hardwareAccelerated
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:379-414
+	android:exported
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:102-125
+	android:resizeableActivity
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:468-502
+	android:configChanges
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:197-378
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:20:48-101
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.CARDBOARD+category:name:com.google.intent.category.DAYDREAM
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:21:7-26:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:23:19-66
+category#com.google.intent.category.CARDBOARD
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:24:9-73
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:24:19-70
+category#com.google.intent.category.DAYDREAM
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:25:9-72
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:25:19-69
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:27:7-82
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:27:59-79
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:27:18-58
+meta-data#com.google.android.vr.icon
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:28:7-105
+	android:resource
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:28:60-102
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:28:18-59
+meta-data#com.google.android.vr.icon_background
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:29:7-115
+	android:resource
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:29:71-112
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:29:18-70
+meta-data#android.notch_support
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:30:7-78
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:30:55-75
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:30:18-54
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:32:5-88
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:32:65-85
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:32:16-64
+meta-data#unity.build-id
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:33:5-101
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:33:46-98
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:33:16-45
+meta-data#unity.splash-mode
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:34:5-69
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:34:49-66
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:34:16-48
+meta-data#unity.splash-enable
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:35:5-75
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:35:51-72
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:35:16-50
+meta-data#notch.config
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:36:5-81
+	android:value
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:36:44-78
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:36:16-43
+uses-feature#0x00030000
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:38:3-52
+	android:glEsVersion
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:38:17-49
+uses-feature#android.hardware.vr.headtracking
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:39:3-112
+	android:version
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:39:90-109
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:39:65-89
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:39:17-64
+uses-feature#android.software.vr.mode
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:40:3-84
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:40:57-81
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:40:17-56
+uses-feature#android.hardware.vr.high_performance
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:41:3-96
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:41:69-93
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:41:17-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:42:3-78
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:42:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:43:3-88
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:43:61-85
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:43:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:44:3-99
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:44:72-96
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:44:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:45:3-108
+	android:required
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:45:81-105
+	android:name
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml:45:17-80
+uses-sdk
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:gvr-keyboard:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\649c2a14bac4d61c110aea931dd50ead\AndroidManifest.xml:3:3-71
+MERGED from [:gvr-keyboard:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\649c2a14bac4d61c110aea931dd50ead\AndroidManifest.xml:3:3-71
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:7:5-9:41
+MERGED from [:gvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\6d97f155b964acffcdae39a6fc03fea8\AndroidManifest.xml:5:5-7:41
+MERGED from [:gvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\6d97f155b964acffcdae39a6fc03fea8\AndroidManifest.xml:5:5-7:41
+MERGED from [:unitygvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\0e6ba7c5a67350737c9edfb5ab3f5bba\AndroidManifest.xml:7:5-9:41
+MERGED from [:unitygvr:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\0e6ba7c5a67350737c9edfb5ab3f5bba\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\david.aleu.RAONA\Documents\hackathons\JungleSurvival\Temp\gradleOut\src\main\AndroidManifest.xml
+activity#com.google.gvr.keyboardsupport.TransitionVRActivity
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:17:9-28:20
+	android:label
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:21:13-37
+	android:resizeableActivity
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:18:13-79
+intent-filter#category:name:android.intent.category.LAUNCHER+category:name:com.google.intent.category.DAYDREAM
+ADDED from [:gvr-keyboardsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\8dd9bbe47da82eba59a2848d39fcd395\AndroidManifest.xml:24:13-27:29
+activity#com.google.gvr.permissionsupport.TransitionVRActivity
+ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:17:9-27:20
+	android:label
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:22:13-45
+	android:enableVrMode
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:20:13-106
+	android:exported
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:21:13-37
+	android:configChanges
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [:gvr-permissionsupport-release:] C:\Users\david.aleu.RAONA\.gradle\caches\transforms-2\files-2.1\cc00eabfdd11d24c9cca07b83b5b0ed9\AndroidManifest.xml:18:13-81
